@@ -17,4 +17,4 @@ Uses Notion and SendGrid APIs to continuously check the value for a given select
 ## Usage
 
 1. Run `run.py` 
-2. If the value of the given property is changed, an email is sent to the recipient
+2. If the value of the given property is changed, an email is sent to the recipient 
